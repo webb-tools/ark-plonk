@@ -4,7 +4,7 @@
 [![Documentation](https://img.shields.io/badge/docs-plonk-blue?logo=rust)](https://docs.rs/plonk/)
 
 
-_This is a pure Rust implementation of the PLONK zk proving system_
+_This is a pure Rust implementation of the PLONK zero-knowledge proving system_
 
 ## Usage
 
